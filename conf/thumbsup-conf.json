@@ -1,0 +1,14 @@
+{
+  "input": "../GacImg2024-original/original",
+  "output": "./docs",
+  "title": "⛰️ GAC Photos 2024",
+  "home-album-name": "Grenoble Adventure Club",
+  "sort-albums-by": "title",
+  "theme": "cards",
+  "photo-download": "link",
+  "link-prefix": "https://raw.githubusercontent.com/Binnette/GacImg2024-original/master/original",
+  "sort-albums-direction": "desc",
+  "theme-style": "./conf/GacImgCustom.css",
+  "album-previews": "first",
+  "footer": "<b><a href=\"https://binnette.github.io/GAC\">GAC</a></b> - Photos: <a href=\"https://binnette.github.io/GacImg2020\">2020</a> | <a href=\"https://binnette.github.io/GacImg2021\">2021</a> | <a href=\"https://binnette.github.io/GacImg2022\">2022</a> | <a href=\"https://binnette.github.io/GacImg2023\">2023</a> | <a href=\"https://binnette.github.io/GacImg2024\">2024</a>"
+}

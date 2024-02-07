@@ -1,0 +1,27 @@
+.summary {
+    display: none;
+}
+
+.date {
+    display: none;
+}
+
+#container {
+    padding: 1em;
+}
+
+#albums a {
+    margin-right: 1em;
+    margin-bottom: 1.5em;
+    width: 450px;
+    /*15*30*/
+    height: 330px;
+    /*11*30*/
+}
+
+@media only screen and (max-width: 500px) {
+    #albums a {
+        width: 100%;
+        height: 330px;
+    }
+}
