@@ -1,4 +1,4 @@
-# GAC Photos 2023
+# GAC Photos 2024
 
 - [GAC website](https://binnette.github.io/GAC/)
 - [GAC Photos 2020](https://binnette.github.io/GacImg2020/)
